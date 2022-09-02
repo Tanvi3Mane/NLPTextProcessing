@@ -1,0 +1,5 @@
+I read many articles to understand Java servlet but I did not succeed.
+
+Can you please give brief introduction of Java servlets (in easy language). What is a servlet? What are the advantages?
+
+I can't understand the difference between server-side programming languages (PHP, ASP) and servlets.
